@@ -1,3 +1,3 @@
 # hello-world
 testRepo
-Megváltozott tartalom,,,
+Megváltozott tartalom...
